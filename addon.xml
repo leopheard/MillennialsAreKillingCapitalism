@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.millennialsarekillingcapitalism" name="Millennials Are Killing Capitalism" version="1.0.0" provider-name="leopheard">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.1"/>
+    <import addon="script.module.requests" version="1.1.0"/>
+    <import addon="script.module.routing" version="0.2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language>en_us</language>
+    <summary lang="en">Millennials Are Killing Capitalism</summary>
+    <description lang="en">We created this podcast in recognition that there are a number of podcasts for the American “left,” but many of them focus heavily on the organizing of social democrats, progressives, and liberal democrats. Aside from that, on the left we are always fighting a war of ideas and if we do not continue to build platforms to share those ideas and the stories of their implementation from a leftist perspective, they will continue to be ignored, misrepresented, and dismissed by the capitalist media and as a result by the general public. Our goal is to provide a platform for communists, anti-imperialists, Black Liberation movements, ancoms, left libertarians, LBGTQ activists, feminists, immigration activists, and abolitionists to discuss radical politics, radical organizing and share their visions for a better world.</description>
+    <license>The MIT License (MIT)</license>
+    <forum></forum>
+    <email>leopheard@gmail.com</email>
+    <source>https://github.com/leopheard/millennialsarekillingcapitalism</source>
+    <website>https://millennialsarekillingcapitalism.libsyn.com/</website>
+        	<assets>
+			<icon>resources/media/icon.jpg</icon>
+			<fanart>resources/media/fanart.jpg</fanart>
+			<screenshot>resources/media/1.jpg</screenshot>
+			<screenshot>resources/media/2.jpg</screenshot>
+			<screenshot>resources/media/1.jpg</screenshot>
+		</assets>
+  </extension>
+</addon>

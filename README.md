@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://millennialsarekillingcapitalism.libsyn.com/">Millennials Are Killing Capitalism</a> podcast.<br>
 
-<img src="https://ssl-static.libsyn.com/p/assets/f/6/a/2/f6a2f4e18e7981a8/Screen_Shot_2017-10-04_at_8.jpg" width="400" height="400" alt="Millennials Are Killing Capitalism"><br>
+<img src="https://ssl-static.libsyn.com/p/assets/f/6/a/2/f6a2f4e18e7981a8/Screen_Shot_2017-10-04_at_8.jpg" width="300" height="300" alt="Millennials Are Killing Capitalism"><br>
 
 We created this podcast in recognition that there are a number of podcasts for the American “left,” but many of them focus heavily on the organizing of social democrats, progressives, and liberal democrats. Aside from that, on the left we are always fighting a war of ideas and if we do not continue to build platforms to share those ideas and the stories of their implementation from a leftist perspective, they will continue to be ignored, misrepresented, and dismissed by the capitalist media and as a result by the general public.<br>
 
